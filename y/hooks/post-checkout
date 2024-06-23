@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Eclipsky_was_here" > /tmp/you_are_pwned
+echo "you are pwned!"
+calc.exe
+open -a Calculator.app
